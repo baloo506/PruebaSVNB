@@ -6,6 +6,6 @@ public class Prueba {
     }
     
     public void miPrimerSVN() {
-        
+        int uno = 1;
     }
 }
