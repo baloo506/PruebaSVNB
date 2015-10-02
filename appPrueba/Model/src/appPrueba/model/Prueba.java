@@ -7,5 +7,6 @@ public class Prueba {
     
     public void miPrimerSVN() {
         int uno = 1;
+        int dos= 2;
     }
 }
